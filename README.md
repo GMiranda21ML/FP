@@ -10,8 +10,8 @@ O repositório está organizado em pastas para facilitar a navegação e o acess
 
 ### EXEMPLOS:
 - 2025.1/: Pasta principal
-- 2025.1/Lista 01/: Pasta da resolução das listas numeradas
-- 2025.1/Prova 01/: Pasta da resolução das provas numeradas
+- 2025.1/Lista01/: Pasta da resolução das listas numeradas
+- 2025.1/Prova01B/: Pasta da resolução das provas numeradas da turma B
 
 ---
 
@@ -22,8 +22,8 @@ O repositório está organizado em pastas para facilitar a navegação e o acess
 | André Avelino      | André Avelino Freitas de Oliveira      | A                |
 | Artur Sales        | Artur Sales Brasiliano                 | A                |
 | Caio Guimarães     | Caio G. Rocha                          | A                |
-| Eric Gonçalves     | Eric                                   | A                |
 | Caio Mathews       | Caio Mathews de Farias Ferreira        | A                |
+| Eric Gonçalves     | Eric                                   | A                |
 | Gabriel Aniceto    | Gabriel Aniceto                        | B                |
 | Gabriel Miranda    | Gabriel Miranda                        | B                |
 | João Victor        | João Victor Guimarães Cavalcanti Uchôa | B                |
