@@ -14,7 +14,7 @@ programa
 
 		real valorArrecadado = (p * 10.0) + (m * 12.0) + (g * 15.0)
 
-		escreva("Valor total arrecadado: ", valorArrecadado)
+		escreva("Valor total arrecadado: R$", valorArrecadado)
 		
 	}
 }
