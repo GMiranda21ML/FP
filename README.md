@@ -11,7 +11,8 @@ O repositório está organizado em pastas para facilitar a navegação e o acess
 ### EXEMPLOS:
 - 2025.1/: Pasta principal
 - 2025.1/Lista01/: Pasta da resolução das listas numeradas
-- 2025.1/Prova01B/: Pasta da resolução das provas numeradas da turma B
+- 2025.1/Provas/: Pasta da resolução das provas
+- 2025.1/Provas/TurmaN: Pasta da resolução das provas da respectiva turma A ou B
 
 ---
 
